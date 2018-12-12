@@ -13,3 +13,5 @@ export class VideoListComponent implements OnInit {
   }
 
 }
+
+//add component: ng g component componentName
